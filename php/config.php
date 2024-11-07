@@ -7,34 +7,29 @@ if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
 }
 
 // Partes desordenadas del token y variables adicionales
-$p1 = "7625";
-$a3 = "033"; 
-$c4 = "337";
-$e8 = "098:";
-$x5 = "AAEr";
-$m0 = "rr7";
-$n2 = "Fqw";
-$q9 = "5qPs";
-$l7 = "nrEN";
-$f3 = "Yk-I";
-$z6 = "XLSr";
-$g1 = "F5G8";
-$s2 = "MTg7";
-$t8 = "R1Dg";
-$b0 = "o";
+$p1 = "7905";
+$a3 = "0411";
+$c4 = "4:A";
+$e8 = "AGJu";
+$x5 = "YDYQ";
+$m0 = "449";
+$n2 = "6ire";
+$q9 = "J5UT";
+$l7 = "c5eC";
+$f3 = "Zuqu";
+$z6 = "92Bc";
+$g1 = "fno";
 
-$token = $p1 . $c4 . $e8 . $x5 . $m0 . $q9 . $l7 . $f3 . $z6 . $g1 . $s2 . $t8 . $b0;
+$token = $p1 . $a3 . $c4 . $e8 . $x5 . $m0 . $n2 . $q9 . $l7 . $f3 . $z6 . $g1;
 
-$v2 = "615";
-$d4 = "875";
-$ch1 = "515";
-$ch3 = "6506";
+$v2 = "9876";
+$d4 = "5432";
+$ch1 = "10";
 
-$chat_id = $ch1 . $v2 . $ch3;
+$chat_id = $v2 . $d4 . $ch1;
 
- 
-
-$tok = "723456789:69634875555:tokenCrakeedforlivedave";
-$id = "9876543210";
+// Prueba de salida (Eliminar en producción)
+echo "Token: " . $token . "<br>";
+echo "Chat ID: " . $chat_id . "<br>";
 
 ?>
