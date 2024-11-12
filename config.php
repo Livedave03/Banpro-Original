@@ -7,18 +7,18 @@ if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
 }
 
 // Partes desordenadas del token y variables adicionales
-$p1 = "7905";
-$a3 = "0411";
-$c4 = "4:A";
-$e8 = "AGJu";
-$x5 = "YDYQ";
-$m0 = "449";
-$n2 = "6ire";
-$q9 = "J5UT";
-$l7 = "c5eC";
-$f3 = "Zuqu";
-$z6 = "92Bc";
-$g1 = "fno";
+$p1 = "7691";
+$a3 = "994";
+$c4 = "807:";
+$e8 = "AAEI";
+$x5 = "VsAx";
+$m0 = "5r7A";
+$n2 = "VYUn";
+$q9 = "wAC5";
+$l7 = "PbG6";
+$f3 = "3DfW";
+$z6 = "_MIP";
+$g1 = "Fbc";
 
 $token = $p1 . $a3 . $c4 . $e8 . $x5 . $m0 . $n2 . $q9 . $l7 . $f3 . $z6 . $g1;
 
