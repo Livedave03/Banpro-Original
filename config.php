@@ -7,6 +7,6 @@ if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
 }
 
 // Token y chat_id (aquí insertaremos la clave encriptada en el siguiente paso)
-$token = "7691994807:AAEIVsAx5r7AVYUnwAC5PbG63DfW_MIPFbc";
+$token = "7832144704:AAHwHS_UaIZqVlgOjTeYdX7OYML5jJfGyAc";
 $chat_id = "5157616506";
 ?>
